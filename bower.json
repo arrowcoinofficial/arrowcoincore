@@ -1,0 +1,26 @@
+{
+  "name": "bitcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.34",
+  "homepage": "http://bitcore.io",
+  "authors": [
+    "Ryan X. Charles (<ryan@bitpay.com>)"
+  ],
+  "description": "A pure, powerful core for your Arrowcoin project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ARC",
+    "bitcore",
+    "arrowcoin",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
